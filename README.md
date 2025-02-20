@@ -266,7 +266,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Citation
 
 ```bibtex
-@software{axen_m2024,
+@software{axen_m2025,
   author = {VinkuraAI},
   title = {AXEN-M: Attention eXtended Efficient Network},
   year = {2025},
@@ -278,8 +278,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Support
 
 - Documentation: [https://axen-m.readthedocs.io/](https://axen-m.readthedocs.io/)
-- Issue Tracker: [GitHub Issues](https://github.com/vinkura/axen-m/issues)
-- Discussions: [GitHub Discussions](https://github.com/vinkura/axen-m/discussions)
+- Issue Tracker: [GitHub Issues](https://github.com/vinkuraai/axen-m/issues)
+- Discussions: [GitHub Discussions](https://github.com/vinkuraai/axen-m/discussions)
 
 ## Acknowledgments
 
